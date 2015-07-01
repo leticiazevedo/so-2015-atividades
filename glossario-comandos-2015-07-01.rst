@@ -4,8 +4,8 @@ Glossário de comandos
 
 :Disciplina: Fundamentos de Sistemas Operacionais
 :Professor: Jurandy Soares
-:Nome: Seu nome completo
-:Matrícula: Sua matrícula
+:Nome: Letícia Nunes Azevedo  
+:Matrícula: 20121144010060
 :Data: 01/07/2015
 
 cat
@@ -13,7 +13,7 @@ cat
 
 
 cd
-  Descrição do comando
+  Descrição do comando 
 
 
 cowsay
@@ -41,7 +41,7 @@ HISTTIMEFORMAT="%d/%m/%y
 
 
 hostname
-  Descrição do comando
+  Comando que exibe o nome da máquina.
 
 
 ifconfig
@@ -73,7 +73,7 @@ passswd
 
 
 pwd
-  Descrição do comando
+  Verifica em que diretório o usuário está.
 
 
 set
@@ -109,7 +109,7 @@ while
 
 
 who
-  Descrição do comando
+  Exibe os usuários logados na máquina.
 
 
 whoami
