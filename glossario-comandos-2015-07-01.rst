@@ -61,7 +61,7 @@ ls
 
 
 mkdir
-  Descrição do comando
+  Cria um novo diretório. Ex.:  mkdir $USER
 
 
 nome="fulano
