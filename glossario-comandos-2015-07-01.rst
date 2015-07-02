@@ -13,7 +13,7 @@ cat
 
 
 cd
-  Descrição do comando 
+  Usado para acessar ou mudar de diretório. Ex.: cd /usr/bin
 
 
 cowsay
@@ -57,7 +57,7 @@ lastb
 
 
 ls
-  Descrição do comando
+  Lista os arquivos existentes em um determinado diretório. Ex.: ls /usr/bin
 
 
 mkdir
