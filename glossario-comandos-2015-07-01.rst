@@ -9,7 +9,7 @@ Glossário de comandos
 :Data: 01/07/2015
 
 cat
-  Descrição do comando
+  Serve para criar um novo arquivo, concatenar e imprimir um conteúo na tela. Ex.: $ cat > arquivo (cria um novo arquivo); cat x.txt y.txt > z.txt (Coloca x e y juntos em um arquivo z)
 
 
 cd
@@ -21,12 +21,12 @@ cowsay
 
 
 echo
-  Descrição do comando
+  A função deste comando é exibir mensagens na tela. Ex.: echo "$PATH" (exibe todos os nomes de arquivos de um diretório em ordem alfabética); echo "$PATH" (verifica o conteúdo da variável de ambiente PATH)
+
 
 
 env
-  Descrição do comando
-
+  Este comando é ultilizado para exibir as variáveis de ambiente. Ex.: 
 
 exit
   Descrição do comando
