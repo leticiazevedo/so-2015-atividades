@@ -17,7 +17,7 @@ cd
 
 
 cowsay
-  Descrição do comando
+  Exibe mensagem com desenhos variádos em ascii.
 
 
 echo
@@ -33,11 +33,11 @@ exit
 
 
 help
-  mostra o arquivo de ajuda do comando que você digitou. Ex.: help
+  Mostra o arquivo de ajuda do comando que você digitou. Ex.: help
 
 
 HISTTIMEFORMAT="%d/%m/%y
-  
+  Exibe o histórico com as datas.
 
 
 hostname
@@ -65,7 +65,8 @@ mkdir
 
 
 nome="fulano
-  Descrição do comando
+  Cira e atribui um valor a uma determinada variável. Ex.: nome="Leticia"
+                                                           echo $nome
 
 
 passswd
@@ -81,31 +82,31 @@ set
 
 
 tree
-  Descrição do comando
+  Exibe a 'árvore' de processos que estão sendo executados.
 
 
 tty
-  Descrição do comando
+  Mostra o nome do arquivo conectado à entrada padrão.
 
 
 vim
-  Descrição do comando
-
+  Trata-se de um editor de texto, basicamente abre um arquivo e o edita.
+  
 
 wait
-  Descrição do comando
+  Espera que um comando seja executado para que possa executar o restante.
 
 
 wall
-  Descrição do comando
+  Escreve uma mensagem para outros usuários.
 
 
 which
-  Descrição do comando
+  Exibe o caminho completo na hierarquia de diretorios para os comandos do sistema. Ex.: which sh
 
 
 while
-  Descrição do comando
+  Laço de repetição.
 
 
 who
@@ -113,9 +114,8 @@ who
 
 
 whoami
-  Descrição do comando
+  Mostra o nome do usuário atual.
 
 
     write
-        Descrição do comando
-
+      Escreve para outros usuários que estejam logados no momento.
