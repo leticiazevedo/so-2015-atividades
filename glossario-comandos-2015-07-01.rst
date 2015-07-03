@@ -26,34 +26,34 @@ echo
 
 
 env
-  Este comando é ultilizado para exibir as variáveis de ambiente. Ex.: 
+  Este comando é ultilizado para exibir as variáveis de ambiente. Ex.: env
 
 exit
-  Descrição do comando
+  Encerra sessão, a shell. Ex.: exit
 
 
 help
-  Descrição do comando
+  mostra o arquivo de ajuda do comando que você digitou. Ex.: help
 
 
 HISTTIMEFORMAT="%d/%m/%y
-  Descrição do comando
+  
 
 
 hostname
-  Comando que exibe o nome da máquina.
+  Comando que exibe o nome da máquina. Ex.: hostname
 
 
 ifconfig
-  Descrição do comando
+  Visualizar os ips da nossa máquina, entre outras funções relacionadas com ips. 
 
 
 last
-  Descrição do comando
+  Exibe o ultimo login do usuário.
 
 
 lastb
-  Descrição do comando
+  Exibe todas asconexões já feitas pelo usuário.
 
 
 ls
@@ -77,7 +77,7 @@ pwd
 
 
 set
-  Descrição do comando
+  Define as variáveis da sessão.
 
 
 tree
