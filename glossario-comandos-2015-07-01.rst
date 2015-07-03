@@ -17,7 +17,7 @@ cd
 
 
 cowsay
-  Exibe mensagem com desenhos variádos em ascii.
+  Exibe mensagem com desenhos variádos em ascii. Ex.: cowsay -f dragon "Olá"; cowsay -L (exibe todos os animais disponíveis)
 
 
 echo
@@ -37,7 +37,7 @@ help
 
 
 HISTTIMEFORMAT="%d/%m/%y
-  Exibe o histórico com as datas.
+  Exibe o histórico com as datas. Ex.: $ echo 'export HISTTIMEFORMAT="%d/%m/%y %T "' >> ~/.bash_profile
 
 
 hostname
@@ -45,7 +45,7 @@ hostname
 
 
 ifconfig
-  Visualizar os ips da nossa máquina, entre outras funções relacionadas com ips. 
+  Visualizar os ips da nossa máquina, entre outras funções relacionadas com ips. Ex.: ifconfig -a (exibe informações sobre todas as interfaces de rede)
 
 
 last
@@ -69,8 +69,8 @@ nome="fulano
                                                            echo $nome
 
 
-passswd
-  Descrição do comando
+passwd
+  Este comando é ultilizado para mudar a senha do usuário ou do grupo. Ex.: passwd leticia -g (altera a senha do usuário, entretanto, somente o usuário root pode o fazer)
 
 
 pwd
@@ -98,7 +98,7 @@ wait
 
 
 wall
-  Escreve uma mensagem para outros usuários.
+  Escreve uma mensagem para outros usuários. Ex.: wall /tmp/mensagem.txt, echo Testando|wall
 
 
 which
