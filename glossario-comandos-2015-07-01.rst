@@ -65,8 +65,7 @@ mkdir
 
 
 nome="fulano
-  Cira e atribui um valor a uma determinada variável. Ex.: nome="Leticia"
-                                                           echo $nome
+  Cira e atribui um valor a uma determinada variável. Ex.: nome="Leticia", echo $nome
 
 
 passwd
